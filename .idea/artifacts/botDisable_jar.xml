@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="botDisable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/botDisable_jar</output-path>
+    <root id="archive" name="botDisable.jar">
+      <element id="module-output" name="botDisable" />
+    </root>
+  </artifact>
+</component>

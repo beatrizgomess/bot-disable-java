@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="botDisable">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/botDisable_jar/botDisable.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
